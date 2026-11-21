@@ -1,0 +1,10 @@
+{
+    "key": "Elpriser",
+    "name": "El-priser",
+    "description": "Henter daglige gennemsnitspriser (Gns, Max, Min) fra Energi Data Service eller et Google-ark.",
+    "version": "0.00",
+    "db": true,
+    "menu_title": "El-priser",
+    "admin_menu_title": "El-pris Opsætning",
+    "requires": []
+}
